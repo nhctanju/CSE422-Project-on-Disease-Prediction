@@ -20,6 +20,3 @@ This project is a machine learning classification model developed to predict whe
 ## Result
 Among all models, **Naive Bayes** achieved the best performance with higher accuracy, precision, and F1-score.
 
-## Files Included
-- `report.pdf` → Project report
-- `project.ipynb` → Implementation notebook
