@@ -1,6 +1,6 @@
 # Diabetes Prediction using Machine Learning
 
-This project is a machine learning classification model developed to predict whether a person has diabetes based on medical features.
+This project is a machine learning classification model developed to predict whether a person has diabetes based on medical features. To talk about ML, we used probabilistic model only.
 
 ## Dataset
 - Source: Kaggle (Pima Indians Diabetes Dataset)
